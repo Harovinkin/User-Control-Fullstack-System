@@ -34,7 +34,7 @@ npm start dev
 * Single page application (Web) 
 * Желательно предоставить Dockerfile и/или docker-compose для развертывания окружения
 ***
-**Bonus:** unit/e2e tests
+**Bonus:** unit/e2e tests  
 **Bonus:** развертывания на бесплатном инстансе Heroku, AWS, GCP или др.
 ***
 Данный тестовый мини проект необходим для оценки вашего опыта в области разработки подобных систем.
